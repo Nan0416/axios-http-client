@@ -3,6 +3,13 @@
 
 ### Features
 
+* **http-client:** implement http client based on axios ([292828c](https://github.com/Nan0416/axios-http-client/commit/292828ca32c76fc97f2e88817401aacf08d27195))
+
+# 1.0.0 (2025-10-30)
+
+
+### Features
+
 * **middlewares:** provide error handler and metrics flushing handler, and a base request assertion class ([50244ee](https://github.com/Nan0416/express-middlewares/commit/50244ee770d13d1d54c6d5b590e4ce588561b4be))
 
 # [1.2.0](https://github.com/Nan0416/dev-kit/compare/v1.1.0...v1.2.0) (2025-10-29)
